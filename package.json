@@ -1,0 +1,14 @@
+{
+  "name": "juice-shop-login-clone",
+  "version": "1.0.0",
+  "description": "A minimal OWASP Juice Shop-style login page with client- and server-side validation, built for a cybersecurity risk assignment.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2"
+  }
+}
